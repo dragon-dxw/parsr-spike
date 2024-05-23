@@ -1,0 +1,1 @@
+docker pull axarev/parsr:v1.1.2
